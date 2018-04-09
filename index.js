@@ -3,6 +3,6 @@ function happyHolidays() {
   return "Happy holidays!";
   } 
   
-  var text = happyHolidays;
-  console.log(text);
+  //var text = happyHolidays;
+  //console.log(text);
   
