@@ -6,3 +6,7 @@ function happyHolidays() {
   //var text = happyHolidays;
   //console.log(text);
   
+  function happyHolidaysTo (name) {
+    return "'Happy holidays' + $"
+  }
+  
